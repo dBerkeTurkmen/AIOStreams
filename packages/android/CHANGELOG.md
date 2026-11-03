@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.13.0](https://github.com/Viren070/AIOStreams/compare/android-v0.12.0...android-v0.13.0) (2026-11-03)
+
+
+### Features
+
+* **android:** show the video small through a hole in the page for the mini player ([56bb1ec](https://github.com/Viren070/AIOStreams/commit/56bb1ec03a6787b7f9ca69f020bc657a6d495042))
+
+
+### Bug Fixes
+
+* **android:** pick the audio output again for a speed change only around passthrough ([dfaf8fa](https://github.com/Viren070/AIOStreams/commit/dfaf8fa9306541327867eb82aeb36813943331fd))
+* **android:** tell runs with the same pid apart in the doing note ([852805f](https://github.com/Viren070/AIOStreams/commit/852805f9fb61124af919e30f370c1d8af70b3dfd))
+
 ## [0.12.0](https://github.com/Viren070/AIOStreams/compare/android-v0.11.0...android-v0.12.0) (2026-11-02)
 
 
