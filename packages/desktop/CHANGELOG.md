@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.23.0](https://github.com/Viren070/AIOStreams/compare/desktop-v0.22.0...desktop-v0.23.0) (2026-11-03)
+
+
+### Features
+
+* **desktop:** lift the video over the page for the mini player ([e4faf22](https://github.com/Viren070/AIOStreams/commit/e4faf227ea19674405a360011b9957eccaf44d78))
+
 ## [0.22.0](https://github.com/Viren070/AIOStreams/compare/desktop-v0.21.0...desktop-v0.22.0) (2026-11-02)
 
 
